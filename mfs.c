@@ -1,6 +1,5 @@
 // Name : Sanket Salunke | UTA ID : 1001764897
 // Name : Darshan Dani   | UTA ID : 1001764937
-// Commands used for execution :
 
 #include <stdlib.h>
 #include <stdint.h>
